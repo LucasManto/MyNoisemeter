@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MeuRuidometro</string>
+    <string name="title_noisemeter">Ruidômetro</string>
+    <string name="title_info">Informações</string>
+
+    <string name="hello_noisemeter">Hello noisemeter</string>
+    <string name="stop_recording">Stop recording</string>
+    <string name="start_recording">Start recording</string>
+
+    <string name="noise_meter_semaphore_scale">Noise Meter Semaphore Scale</string>
+</resources>
